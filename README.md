@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/soft-caress/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Soft Caress](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-caress/) |
+| **Get License** | [License this song: Soft Caress](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-caress/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the heat when you look my way
+> A quiet burn at the end of the day
+> Your shadow dances on the wooden floor
+> Leaving me hungry and begging for more
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
